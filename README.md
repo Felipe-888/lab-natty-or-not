@@ -14,5 +14,7 @@ Utilizei o Microsoft Copilot para pesquisar e gerar o conteúdo sobre como a IA 
 ## 🚀 Resultados
 O e-book traz, em linguagem simples e acessível, como a IA está tranformando o setor financeiro.
 
+[LINK PARA O E-BOOK AQUI](https://github.com/Felipe-888/lab-natty-or-not/blob/main/Projeto.pdf)
+
 ## 💭 Reflexão
 Criar este e-book foi uma aprendizagem enriquecedora, proporcionando um maior entendimento sobre como a inteligência artificial pode otimizar o trabalho humano.
