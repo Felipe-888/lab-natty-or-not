@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Bancos Inteligentes: Como a IA está Transformando o Setor Financeiro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 5 páginas trata sobre como as IAs estão impactando o setor financeiro, abordando as aplicações, os benefícios, os desafios e as tendências futuras da IA nos bancos.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Microsoft Copilot](https://copilot.microsoft.com)** para roteirização;
+- IA Generativa **[Bing](https://www.bing.com/images/create)** para criar a arte visual do e-book;
+- Ferramenta **WordPad** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Microsoft Copilot para pesquisar e gerar o conteúdo sobre como a IA está transformando o setor financeiro. Para gerar as imagens referentes ao tema, utilizei o "Bing". Por fim, para editar o conteúdo, utilizei o WordPad.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book traz, em linguagem simples e acessível, como a IA está tranformando o setor financeiro.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar este e-book foi uma aprendizagem enriquecedora, proporcionando um maior entendimento sobre como a inteligência artificial pode otimizar o trabalho humano.
